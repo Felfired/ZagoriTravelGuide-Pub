@@ -110,4 +110,4 @@ Zagori Travel Guide does not warrant that the app will be uninterrupted, uncorru
 
 ## Contact Us
 Don't hesitate to contact us if you have any questions.
-Via Email: zagoriguide@zagoriguide.com
+Via Email: info@zagoriguide.com
