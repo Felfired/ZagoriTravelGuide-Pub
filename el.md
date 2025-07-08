@@ -136,4 +136,4 @@ Zagori Travel Guide σχετικά με την εφαρμογή θα παραμ�
 
 ## Επικοινωνήστε μαζί μας
 Μην διστάσετε να επικοινωνήσετε μαζί μας εάν έχετε οποιεσδήποτε ερωτήσεις.
-Μέσω email: zagoriguide@zagoriguide.com
+Μέσω email: info@zagoriguide.com
